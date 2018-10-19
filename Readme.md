@@ -1,6 +1,6 @@
 ## How to: provide flat data to Sunburst
 
-This example demonstrates how to visualize flat data using SunburstControl.
+This example demonstrates how to visualize flat data using the SunburstControl.
 
 ![](Images\flat-data-sample.png)
 
