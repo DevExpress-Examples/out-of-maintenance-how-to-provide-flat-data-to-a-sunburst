@@ -20,8 +20,7 @@ namespace SunburstFlatDataAdapterSample {
             sunburstControl.Colorizer = new SunburstGradientColorizer {
                 Min = 0.4,
                 Max = 0.9,
-                Palette = Palette.Office2019Palette,
-                Mode = GradientColorizerMode.ByGroupLevel,
+                Palette = Palette.Office2019Palette,               
                 GradientColor = Color.White
             };
         }
